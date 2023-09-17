@@ -2,7 +2,7 @@
 
 ---  
 
-# ascii-art-web  
+# Ascii-art-web  
 
 **Description**  
 Ascii-art-web is a webpage where you can turn normal text into ascii art.
