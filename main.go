@@ -1,0 +1,5 @@
+package asciiArtWeb
+
+func main() {
+
+}
