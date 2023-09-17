@@ -12,6 +12,7 @@ Katrina Mäeorg
 
 **Usage: how to run**  
 go run main.go
+Runs on http://localhost:8080/
 
 **Implementation details: algorithm**  
 Implemented with Go server HTTP requests
