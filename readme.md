@@ -11,7 +11,8 @@ Ascii-art-web is a webpage where you can turn normal text into ascii art.
 Katrina Mäeorg
 
 **Usage: how to run**  
-go run main.go
+go run main.go  
+  
 Runs on http://localhost:8080/
 
 **Implementation details: algorithm**  
