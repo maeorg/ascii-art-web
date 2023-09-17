@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ascii Art Web</title>
+<meta charset="UTF-8" />
+</head>
+<body>
+    <form method="POST" action="/ascii-art">
+        <label>Text: </label>
+        <textarea id="text" name="text" rows="10" cols="100" type="text">
+{123}
+<Hello>(World)!</textarea>
+        <p>Please select a banner style:</p>
+        <input type="radio" id="standard" name="banner" value="standard" checked="checked">
+        <label for="standard">Standard</label></br>
+        <input type="radio" id="shadow" name="banner" value="shadow">
+        <label for="shadow">Shadow</label></br>
+        <input type="radio" id="thinkertoy" name="banner" value="thinkertoy">
+        <label for="thinkertoy">Thinkertoy</label></br>
+        <input type="submit" value="submit" />
+    </form>
+
+</body>
+</html>
